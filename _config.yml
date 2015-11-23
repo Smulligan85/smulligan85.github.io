@@ -1,10 +1,12 @@
 # Site settings
 title: Build It. Break It. Refactor It.
-# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome, I'm a Ruby and Javascript developer. Hope you find this
-  technical blog helpful. If you have any questions or recommendations
-  feel free to reach out on Twitter.
+  Technical Blog and Portfolio about Ruby, Javascript and
+  any new technogy that looks exciting.
+about: > # this means to ignore newlines until "baseurl:"
+  Welcome, my name is Sean Mulligan. I'm a Ruby and Javascript developer. 
+  Hope you find this technical blog helpful. If you have any questions or 
+  recommendations feel free to reach out on Twitter.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://smulligan85.github.io" # the base hostname & protocol for your site
 twitter_username: seanmulligan85

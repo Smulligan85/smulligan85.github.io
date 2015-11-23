@@ -4,4 +4,4 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Enter Portfolio Info Here
+Enter Portfolio Info Here.
