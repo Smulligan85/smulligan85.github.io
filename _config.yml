@@ -4,8 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Technical Blog and Portofio about Ruby, Javascript and
   any new technogy that looks exciting.
 about: > # this means to ignore newlines until "baseurl:"
-  Welcome, my name is Sean Mulligan. I'm a Ruby and Javascript developer. 
-  Hope you find this technical blog helpful. If you have any questions or 
+  Welcome, my name is Sean Mulligan and I'm a Ruby and Javascript developer. I
+  hope you find this technical blog helpful and informative. If you have any questions or 
   recommendations feel free to reach out on Twitter.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://smulligan85.github.io" # the base hostname & protocol for your site
