@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prepopulate a Form in Rails"
-date:   2016-06-21
+date:   2016-11-29
 categories: tutorial
 ---
 
