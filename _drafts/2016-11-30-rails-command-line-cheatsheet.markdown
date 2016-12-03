@@ -35,5 +35,9 @@ In addition to creating the `command_cheats_controller.rb` file with a `new` `ge
 $ rails g CommandCheats new generate migrate --skip-assets --skip-helper --skip-controller-specs --view-specs
 {% endhighlight %}
 
+Another useful command is the `rails console` or `rails c`. This opens a `irb` environment that allows you to play around with ideas or make changes to data within your terminal. This command is really nice, but I usually use it in tandem with the flag `--sandbox`. The command `rails c --sandbox` opens up the same `irb` environment, but will rollback any changes you make to the db after you exit out. I believe this is a better way of testing out ideas, without having to worry about unintentionally altering your application.  
+
+I hope that you found this post helpful as a quick reference to some common Rails CLI commands. Feel free to reach out on Twitter with any questions.
+
 
 
